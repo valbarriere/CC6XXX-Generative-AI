@@ -5,16 +5,15 @@ This is the repository of a future Generative AI class from the DCC - Uchile.
 
 ## Content
 
-* Generative Models [Slides](https://github.com/valbarriere/CC6204-Deep-Learning/blob/main/Slides/15_GenerativeModels.pdf)
-  * Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Labs/Lab1-1_Latent_Space_Exploration_with_StyleGAN2.ipynb) 
-  * Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Labs/Lab1-2_Toonification.ipynb) 
-* Generative LLMs [Slides](https://github.com/valbarriere/CC6204-Deep-Learning/blob/main/Slides/N_Generative_LLMs.pdf)
+* Generative Models [Slides](https://github.com/valbarriere/CC6XXX-Generative-AI/blob/main/Slides_es/Generative_vision.pdf)
+  * Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Labs/Lab1_Toonification.ipynb) 
+* Generative LLMs [Slides](https://github.com/valbarriere/CC6XXX-Generative-AI/blob/main/Slides_es/N_Generative_LLMs.pdf)
   * Tutorial TBA
 * Efficiency and Deployment of Generative Models TBA
   * Tutorial TBA
 * Multimodality [Slides](https://github.com/valbarriere/CC6204-Deep-Learning/blob/main/Slides/N_Multimodal_Models.pdf)
   * Tutorial TBA 
-* Large Multimodal Models [Slides](https://github.com/valbarriere/CC6204-Deep-Learning/blob/main/Slides/N_Multimodal_Models.pdf)
+* Large Multimodal Models [Slides](https://github.com/valbarriere/CC6XXX-Generative-AI/blob/main/Slides_es/Multimodal_LLM.pdf)
   * Tutorial TBA
 * Audio Models TBA
   * Tutorial TBA
