@@ -6,7 +6,7 @@ This is the repository of a future Generative AI class from the DCC - Uchile.
 ## Content
 
 * Generative Models [Slides](https://github.com/valbarriere/CC6XXX-Generative-AI/blob/main/Slides_es/Generative_vision.pdf)
-  * Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Labs/Lab1_Toonification.ipynb) 
+  * Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Labs/Lab1-Toonification.ipynb) 
 * Generative LLMs [Slides](https://github.com/valbarriere/CC6XXX-Generative-AI/blob/main/Slides_es/N_Generative_LLMs.pdf)
   * Tutorial TBA
 * Efficiency and Deployment of Generative Models TBA
