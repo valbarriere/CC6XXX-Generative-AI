@@ -16,7 +16,8 @@ This is the repository of a future Generative AI class from the DCC - Uchile.
 * Large Multimodal Models [Slides](https://github.com/valbarriere/CC6XXX-Generative-AI/blob/main/Slides_es/Multimodal_LLM.pdf)
   * Tutorial TBA
 * Audio Models TBA
-  * Tutorial TBA
+  * Tutorial 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Labs/Lab6-1_AudioProcessing_students.ipynb) 
+  * Tutorial 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Labs/Lab6-2_AudioClassification_students.ipynb) 
 * Reasoning and Advanced Prompting Techniques TBA
   * Tutorial TBA
 * Advanced LLMs: Agents, Tools, and RAG TBA
