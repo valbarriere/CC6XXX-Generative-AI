@@ -21,6 +21,9 @@ This is the repository of a future Generative AI class from the DCC - Uchile.
   * Tutorial 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Labs/Lab6-2_AudioClassification_students.ipynb) 
 * RAG [Slides](https://github.com/valbarriere/CC6XXX-Generative-AI/blob/main/Slides_es/Rag_v2.pdf)
   * Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Labs/lab_rag_scotiabank.ipynb)
+* Thinking more: test-time compute and distillation [Slides](https://github.com/valbarriere/CC6XXX-Generative-AI/blob/main/Slides_es/Pensar_mas.pdf)
+  * Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Labs/lab_destilar_countdown.ipynb)
+  * Complementary: how the lab dataset was built (~1 h on a T4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Labs/precalculo_countdown.ipynb)
 * Advanced LLMs: Agents, Tools, and TBA [Slides](https://github.com/valbarriere/CC6XXX-Generative-AI/blob/main/Slides_es/advanced_llm_v4.pdf)
   * Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Labs/lab_agente_pasteleria_hf.ipynb)
 
