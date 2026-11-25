@@ -27,6 +27,11 @@ This is the repository of a future Generative AI class from the DCC - Uchile.
 * Advanced LLMs: Agents, Tools, and TBA [Slides](https://github.com/valbarriere/CC6XXX-Generative-AI/blob/main/Slides_es/advanced_llm_v4.pdf)
   * Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Labs/lab_agente_pasteleria_hf.ipynb)
 
+## Tareas
+
+* Tarea 1: un encargo, ¿nos sirve un asistente con nuestros documentos? (RAG) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/valbarriere/CC6XXX-Generative-AI/blob/main/Tareas/tarea_1_v3.ipynb)
+  * Paquete para subir a Colab: [paquete_tarea1_v3.zip](https://github.com/valbarriere/CC6XXX-Generative-AI/raw/main/Tareas/paquete_tarea1_v3.zip)
+
 ## CheatSheets 
 
 [Cheatseets](https://github.com/valbarriere/CC5205-Mineria-Datos-Content/tree/main/CheatSheets) sobre Python, Machine Learning and Deep Learning.
